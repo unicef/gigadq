@@ -1,0 +1,7 @@
+school_id,school_name,education_level,latitude,longitude,internet_availability,internet_type
+203251718,abc,secondary,50.498461,62.2359553,Yes, fiber optic
+20EE19574,2,primary,20.756124,82.3651213,No,
+203276908,3,secondary,60.816715,12.332742,Yes, fiber optic
+20334386D,xyz,secondary,70.808128,22.3362283,Yes,4G
+203210395,5,secondary,90.783878,82.332827,Yes, fiber optic
+203213755,6,secondary,30.769692,12.377909,No,
